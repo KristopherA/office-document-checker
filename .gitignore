@@ -1,0 +1,5 @@
+# Generated triage output (may contain sample/suspect document content)
+office_check_*/
+
+# macOS
+.DS_Store
